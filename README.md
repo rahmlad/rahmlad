@@ -8,9 +8,9 @@
 
 - 💬 Ask me about frontend development, best practices in React, Next and React Native, or any tech-related stuff. I’m here to help and learn together!
 
-- 📫 How to reach me: (LinkedIn)[https://linkedin.com/in/rahmlad]
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/rahmlad)
 
-- 🌐 Check out my portfolio: (Portfolio)[https://devrahmlad.tech]
+- 🌐 Check out my portfolio: [Portfolio](https://devrahmlad.tech)
 
 Let's build something amazing together!
 
